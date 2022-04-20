@@ -30,4 +30,9 @@
 - Openapi:
   ```sh
     http://localhost/docs
-    ```
+  ```
+  
+- Run unittest in app folder:
+  ```sh
+    ./run_tests.sh
+  ```
