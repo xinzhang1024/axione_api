@@ -1,0 +1,2554 @@
+[
+   {
+      "city":"Tournefeuille ",
+      "score":"4.5"
+   },
+   {
+      "city":"Poisy ",
+      "score":"4.5"
+   },
+   {
+      "city":"Saint-Mandé ",
+      "score":"4.4"
+   },
+   {
+      "city":"Erstein ",
+      "score":"4.4"
+   },
+   {
+      "city":"Vaison-la-Romaine ",
+      "score":"4.4"
+   },
+   {
+      "city":"Le Plessis-Robinson ",
+      "score":"4.3"
+   },
+   {
+      "city":"Gournay-sur-Marne ",
+      "score":"4.3"
+   },
+   {
+      "city":"Bondues ",
+      "score":"4.3"
+   },
+   {
+      "city":"Rocbaron ",
+      "score":"4.3"
+   },
+   {
+      "city":"Vincennes ",
+      "score":"4.3"
+   },
+   {
+      "city":"Blanquefort ",
+      "score":"4.2"
+   },
+   {
+      "city":"Magny-le-Hongre ",
+      "score":"4.2"
+   },
+   {
+      "city":"Le Raincy ",
+      "score":"4.2"
+   },
+   {
+      "city":"Vaires-sur-Marne ",
+      "score":"4.2"
+   },
+   {
+      "city":"Saint-Germain-en-Laye ",
+      "score":"4.2"
+   },
+   {
+      "city":"Houdan ",
+      "score":"4.2"
+   },
+   {
+      "city":"Vélizy-Villacoublay ",
+      "score":"4.2"
+   },
+   {
+      "city":"Joinville-le-Pont ",
+      "score":"4.2"
+   },
+   {
+      "city":"Marcq-en-Baroeul ",
+      "score":"4.2"
+   },
+   {
+      "city":"Sèvres ",
+      "score":"4.1"
+   },
+   {
+      "city":"Landerneau ",
+      "score":"4.1"
+   },
+   {
+      "city":"Viroflay ",
+      "score":"4.1"
+   },
+   {
+      "city":"La Gaude ",
+      "score":"4.1"
+   },
+   {
+      "city":"Saint-Gilles-Croix-de-Vie ",
+      "score":"4.1"
+   },
+   {
+      "city":"Saint-Leu-la-Forêt ",
+      "score":"4.1"
+   },
+   {
+      "city":"Saint-Étienne-de-Montluc ",
+      "score":"4.1"
+   },
+   {
+      "city":"Yerres ",
+      "score":"4.1"
+   },
+   {
+      "city":"La Baule-Escoublac ",
+      "score":"4.1"
+   },
+   {
+      "city":"Montrouge ",
+      "score":"4.1"
+   },
+   {
+      "city":"Culoz ",
+      "score":"4.1"
+   },
+   {
+      "city":"Issoire ",
+      "score":"3.9"
+   },
+   {
+      "city":"Vannes ",
+      "score":"3.9"
+   },
+   {
+      "city":"Suresnes ",
+      "score":"3.9"
+   },
+   {
+      "city":"Maizières-lès-Metz ",
+      "score":"3.9"
+   },
+   {
+      "city":"Hénin-Beaumont ",
+      "score":"3.8"
+   },
+   {
+      "city":"Olivet ",
+      "score":"3.8"
+   },
+   {
+      "city":"Puteaux ",
+      "score":"3.8"
+   },
+   {
+      "city":"Bussy-Saint-Georges ",
+      "score":"3.8"
+   },
+   {
+      "city":"Saint-Estève ",
+      "score":"3.8"
+   },
+   {
+      "city":"Marly-le-Roi ",
+      "score":"3.8"
+   },
+   {
+      "city":"Ville-d'Avray ",
+      "score":"3.8"
+   },
+   {
+      "city":"Antony ",
+      "score":"3.8"
+   },
+   {
+      "city":"Éragny ",
+      "score":"3.8"
+   },
+   {
+      "city":"Chatou ",
+      "score":"3.8"
+   },
+   {
+      "city":"Auray ",
+      "score":"3.8"
+   },
+   {
+      "city":"Conflans-Sainte-Honorine ",
+      "score":"3.8"
+   },
+   {
+      "city":"Versailles ",
+      "score":"3.8"
+   },
+   {
+      "city":"Fréjus ",
+      "score":"3.8"
+   },
+   {
+      "city":"Bruz ",
+      "score":"3.8"
+   },
+   {
+      "city":"Anglet ",
+      "score":"3.8"
+   },
+   {
+      "city":"Beaune ",
+      "score":"3.8"
+   },
+   {
+      "city":"Arras ",
+      "score":"3.8"
+   },
+   {
+      "city":"Wambrechies ",
+      "score":"3.8"
+   },
+   {
+      "city":"Blagnac ",
+      "score":"3.8"
+   },
+   {
+      "city":"Béthune ",
+      "score":"3.8"
+   },
+   {
+      "city":"Poissy ",
+      "score":"3.8"
+   },
+   {
+      "city":"Monteux ",
+      "score":"3.8"
+   },
+   {
+      "city":"Clisson ",
+      "score":"3.8"
+   },
+   {
+      "city":"La Garenne-Colombes ",
+      "score":"3.8"
+   },
+   {
+      "city":"Noisy-le-Grand ",
+      "score":"3.8"
+   },
+   {
+      "city":"Guérande ",
+      "score":"3.9"
+   },
+   {
+      "city":"Thouaré-sur-Loire ",
+      "score":"3.9"
+   },
+   {
+      "city":"Clamart ",
+      "score":"3.9"
+   },
+   {
+      "city":"Brunoy ",
+      "score":"3.9"
+   },
+   {
+      "city":"Levallois-Perret ",
+      "score":"3.9"
+   },
+   {
+      "city":"Chauny ",
+      "score":"3.9"
+   },
+   {
+      "city":"Pessac ",
+      "score":"3.9"
+   },
+   {
+      "city":"Collioure ",
+      "score":"3.9"
+   },
+   {
+      "city":"Sélestat ",
+      "score":"3.9"
+   },
+   {
+      "city":"Domont ",
+      "score":"3.9"
+   },
+   {
+      "city":"Chamalières ",
+      "score":"3.9"
+   },
+   {
+      "city":"Fontainebleau ",
+      "score":"3.9"
+   },
+   {
+      "city":"Salon-de-Provence ",
+      "score":"3.9"
+   },
+   {
+      "city":"Eysines ",
+      "score":"3.9"
+   },
+   {
+      "city":"Saint-Jean-de-Monts ",
+      "score":"3.9"
+   },
+   {
+      "city":"Saint-Médard-en-Jalles ",
+      "score":"3.9"
+   },
+   {
+      "city":"Lanester ",
+      "score":"3.9"
+   },
+   {
+      "city":"Plouay ",
+      "score":"3.9"
+   },
+   {
+      "city":"Le Vésinet ",
+      "score":"3.9"
+   },
+   {
+      "city":"Villeneuve-Loubet ",
+      "score":"3.9"
+   },
+   {
+      "city":"Claye-Souilly ",
+      "score":"3.9"
+   },
+   {
+      "city":"Chelles ",
+      "score":"3.9"
+   },
+   {
+      "city":"Le Barcarès ",
+      "score":"3.9"
+   },
+   {
+      "city":"L'Isle-Adam ",
+      "score":"3.9"
+   },
+   {
+      "city":"Thiais ",
+      "score":"3.9"
+   },
+   {
+      "city":"Villers-lès-Nancy ",
+      "score":"3.9"
+   },
+   {
+      "city":"Le Perreux-sur-Marne ",
+      "score":"3.9"
+   },
+   {
+      "city":"Maisons-Alfort ",
+      "score":"3.9"
+   },
+   {
+      "city":"Garches ",
+      "score":"3.9"
+   },
+   {
+      "city":"Saint-Maur-des-Fossés ",
+      "score":"3.9"
+   },
+   {
+      "city":"Brie-Comte-Robert ",
+      "score":"3.7"
+   },
+   {
+      "city":"Deuil-la-Barre ",
+      "score":"3.7"
+   },
+   {
+      "city":"Sarlat-la-Canéda ",
+      "score":"3.7"
+   },
+   {
+      "city":"Épinay-sur-Orge ",
+      "score":"3.7"
+   },
+   {
+      "city":"Saintes ",
+      "score":"3.7"
+   },
+   {
+      "city":"Bourges ",
+      "score":"3.7"
+   },
+   {
+      "city":"Balaruc-les-Bains ",
+      "score":"3.7"
+   },
+   {
+      "city":"Saint-Maximin-la-Sainte-Baume ",
+      "score":"3.7"
+   },
+   {
+      "city":"Bron ",
+      "score":"3.7"
+   },
+   {
+      "city":"Pierrelatte ",
+      "score":"3.7"
+   },
+   {
+      "city":"Mazamet ",
+      "score":"3.7"
+   },
+   {
+      "city":"Pau ",
+      "score":"3.6"
+   },
+   {
+      "city":"Boulogne-Billancourt ",
+      "score":"3.6"
+   },
+   {
+      "city":"Pornic ",
+      "score":"3.6"
+   },
+   {
+      "city":"Herblay-sur-Seine ",
+      "score":"3.6"
+   },
+   {
+      "city":"Sucy-en-Brie ",
+      "score":"3.6"
+   },
+   {
+      "city":"Meudon ",
+      "score":"3.6"
+   },
+   {
+      "city":"Draguignan ",
+      "score":"3.6"
+   },
+   {
+      "city":"Tournon-sur-Rhône ",
+      "score":"3.6"
+   },
+   {
+      "city":"Aigues-Mortes ",
+      "score":"3.6"
+   },
+   {
+      "city":"Lognes ",
+      "score":"3.6"
+   },
+   {
+      "city":"Cholet ",
+      "score":"3.6"
+   },
+   {
+      "city":"Honfleur ",
+      "score":"3.6"
+   },
+   {
+      "city":"Antibes ",
+      "score":"3.6"
+   },
+   {
+      "city":"Lagny-sur-Marne ",
+      "score":"3.6"
+   },
+   {
+      "city":"Neuilly-sur-Seine ",
+      "score":"3.6"
+   },
+   {
+      "city":"Voiron ",
+      "score":"3.6"
+   },
+   {
+      "city":"Montesson ",
+      "score":"3.6"
+   },
+   {
+      "city":"Aix-en-Provence ",
+      "score":"3.6"
+   },
+   {
+      "city":"Taverny ",
+      "score":"3.6"
+   },
+   {
+      "city":"Rambouillet ",
+      "score":"3.7"
+   },
+   {
+      "city":"Mende ",
+      "score":"3.7"
+   },
+   {
+      "city":"Pontarlier ",
+      "score":"3.7"
+   },
+   {
+      "city":"Granville ",
+      "score":"3.7"
+   },
+   {
+      "city":"Thuir ",
+      "score":"3.7"
+   },
+   {
+      "city":"Angers ",
+      "score":"3.7"
+   },
+   {
+      "city":"Sainte-Luce-sur-Loire ",
+      "score":"3.7"
+   },
+   {
+      "city":"Cambrai ",
+      "score":"3.7"
+   },
+   {
+      "city":"Saint-Cloud ",
+      "score":"3.7"
+   },
+   {
+      "city":"Caluire-et-Cuire ",
+      "score":"3.7"
+   },
+   {
+      "city":"Challans ",
+      "score":"3.7"
+   },
+   {
+      "city":"Mauguio ",
+      "score":"3.7"
+   },
+   {
+      "city":"Jouy-le-Moutier ",
+      "score":"3.7"
+   },
+   {
+      "city":"Fontenay-aux-Roses ",
+      "score":"3.7"
+   },
+   {
+      "city":"Savenay ",
+      "score":"3.7"
+   },
+   {
+      "city":"Caen ",
+      "score":"3.7"
+   },
+   {
+      "city":"Cannes ",
+      "score":"3.7"
+   },
+   {
+      "city":"Villenave-d'Ornon ",
+      "score":"3.7"
+   },
+   {
+      "city":"Ramonville-Saint-Agne ",
+      "score":"3.7"
+   },
+   {
+      "city":"Mayenne ",
+      "score":"3.7"
+   },
+   {
+      "city":"Pontoise ",
+      "score":"3.7"
+   },
+   {
+      "city":"Torcy ",
+      "score":"3.7"
+   },
+   {
+      "city":"Vesoul ",
+      "score":"3.7"
+   },
+   {
+      "city":"Yvetot ",
+      "score":"3.7"
+   },
+   {
+      "city":"Tours ",
+      "score":"3.7"
+   },
+   {
+      "city":"Sainte-Geneviève-des-Bois ",
+      "score":"3.7"
+   },
+   {
+      "city":"Roquebrune-sur-Argens ",
+      "score":"3.7"
+   },
+   {
+      "city":"Provins ",
+      "score":"3.7"
+   },
+   {
+      "city":"Le Blanc-Mesnil ",
+      "score":"3.7"
+   },
+   {
+      "city":"Cormeilles-en-Parisis ",
+      "score":"3.7"
+   },
+   {
+      "city":"Louviers ",
+      "score":"3.8"
+   },
+   {
+      "city":"Eaubonne ",
+      "score":"3.8"
+   },
+   {
+      "city":"Dole ",
+      "score":"3.8"
+   },
+   {
+      "city":"Amboise ",
+      "score":"3.8"
+   },
+   {
+      "city":"Paray-le-Monial ",
+      "score":"3.8"
+   },
+   {
+      "city":"Ozoir-la-Ferrière ",
+      "score":"3.8"
+   },
+   {
+      "city":"Compiègne ",
+      "score":"3.8"
+   },
+   {
+      "city":"Méru ",
+      "score":"3.8"
+   },
+   {
+      "city":"Saint-Raphaël ",
+      "score":"3.7"
+   },
+   {
+      "city":"Pontivy ",
+      "score":"3.7"
+   },
+   {
+      "city":"Le Cannet ",
+      "score":"3.7"
+   },
+   {
+      "city":"Bédarrides ",
+      "score":"3.7"
+   },
+   {
+      "city":"Douarnenez ",
+      "score":"3.7"
+   },
+   {
+      "city":"Le Puy-en-Velay ",
+      "score":"3.7"
+   },
+   {
+      "city":"Saint-Amand-les-Eaux ",
+      "score":"3.7"
+   },
+   {
+      "city":"Le Chesnay-Rocquencourt ",
+      "score":"3.7"
+   },
+   {
+      "city":"Lambersart ",
+      "score":"3.7"
+   },
+   {
+      "city":"La Roche-sur-Yon ",
+      "score":"3.7"
+   },
+   {
+      "city":"Chalon-sur-Saône ",
+      "score":"3.7"
+   },
+   {
+      "city":"Bailleul ",
+      "score":"3.7"
+   },
+   {
+      "city":"Dieppe ",
+      "score":"3.7"
+   },
+   {
+      "city":"Annecy ",
+      "score":"3.7"
+   },
+   {
+      "city":"Chantilly ",
+      "score":"3.7"
+   },
+   {
+      "city":"Rueil-Malmaison ",
+      "score":"3.7"
+   },
+   {
+      "city":"Saint-Julien-en-Genevois ",
+      "score":"3.7"
+   },
+   {
+      "city":"Saint-Malo ",
+      "score":"3.7"
+   },
+   {
+      "city":"Rennes ",
+      "score":"3.7"
+   },
+   {
+      "city":"Meaux ",
+      "score":"3.7"
+   },
+   {
+      "city":"Carrières-sous-Poissy ",
+      "score":"3.7"
+   },
+   {
+      "city":"Pontchâteau ",
+      "score":"3.7"
+   },
+   {
+      "city":"Gif-sur-Yvette ",
+      "score":"4.1"
+   },
+   {
+      "city":"Frelinghien ",
+      "score":"4.1"
+   },
+   {
+      "city":"Vitré ",
+      "score":"4.1"
+   },
+   {
+      "city":"Draveil ",
+      "score":"4.1"
+   },
+   {
+      "city":"Saint-Renan ",
+      "score":"4.1"
+   },
+   {
+      "city":"Saint-Gratien ",
+      "score":"4.1"
+   },
+   {
+      "city":"Saint-Laurent-de-la-Salanque ",
+      "score":"4"
+   },
+   {
+      "city":"Élancourt ",
+      "score":"4"
+   },
+   {
+      "city":"Toul ",
+      "score":"4"
+   },
+   {
+      "city":"Gex ",
+      "score":"4"
+   },
+   {
+      "city":"Aix-les-Bains ",
+      "score":"4"
+   },
+   {
+      "city":"Illkirch-Graffenstaden ",
+      "score":"4"
+   },
+   {
+      "city":"La Garde ",
+      "score":"4"
+   },
+   {
+      "city":"Saint-Maurice ",
+      "score":"4"
+   },
+   {
+      "city":"Mandelieu-la-Napoule ",
+      "score":"4"
+   },
+   {
+      "city":"Le Plessis-Trévise ",
+      "score":"4"
+   },
+   {
+      "city":"Carquefou ",
+      "score":"4"
+   },
+   {
+      "city":"Montlouis-sur-Loire ",
+      "score":"4"
+   },
+   {
+      "city":"Saint-Sébastien-sur-Loire ",
+      "score":"4"
+   },
+   {
+      "city":"Bolbec ",
+      "score":"4"
+   },
+   {
+      "city":"Orvault ",
+      "score":"4"
+   },
+   {
+      "city":"Betton ",
+      "score":"4"
+   },
+   {
+      "city":"Nogent-sur-Marne ",
+      "score":"4"
+   },
+   {
+      "city":"Arcachon ",
+      "score":"4"
+   },
+   {
+      "city":"Uzès ",
+      "score":"4"
+   },
+   {
+      "city":"Vertou ",
+      "score":"4"
+   },
+   {
+      "city":"Saint-Cyprien ",
+      "score":"4"
+   },
+   {
+      "city":"Palaiseau ",
+      "score":"4"
+   },
+   {
+      "city":"Bry-sur-Marne ",
+      "score":"4"
+   },
+   {
+      "city":"Montbrison ",
+      "score":"4"
+   },
+   {
+      "city":"Tournefeuille ",
+      "score":"4.5"
+   },
+   {
+      "city":"Poisy ",
+      "score":"4.5"
+   },
+   {
+      "city":"Saint-Mandé ",
+      "score":"4.4"
+   },
+   {
+      "city":"Erstein ",
+      "score":"4.4"
+   },
+   {
+      "city":"Vaison-la-Romaine ",
+      "score":"4.4"
+   },
+   {
+      "city":"Le Plessis-Robinson ",
+      "score":"4.3"
+   },
+   {
+      "city":"Gournay-sur-Marne ",
+      "score":"4.3"
+   },
+   {
+      "city":"Bondues ",
+      "score":"4.3"
+   },
+   {
+      "city":"Rocbaron ",
+      "score":"4.3"
+   },
+   {
+      "city":"Vincennes ",
+      "score":"4.3"
+   },
+   {
+      "city":"Blanquefort ",
+      "score":"4.2"
+   },
+   {
+      "city":"Magny-le-Hongre ",
+      "score":"4.2"
+   },
+   {
+      "city":"Le Raincy ",
+      "score":"4.2"
+   },
+   {
+      "city":"Vaires-sur-Marne ",
+      "score":"4.2"
+   },
+   {
+      "city":"Saint-Germain-en-Laye ",
+      "score":"4.2"
+   },
+   {
+      "city":"Houdan ",
+      "score":"4.2"
+   },
+   {
+      "city":"Vélizy-Villacoublay ",
+      "score":"4.2"
+   },
+   {
+      "city":"Joinville-le-Pont ",
+      "score":"4.2"
+   },
+   {
+      "city":"Marcq-en-Baroeul ",
+      "score":"4.2"
+   },
+   {
+      "city":"Sèvres ",
+      "score":"4.1"
+   },
+   {
+      "city":"Landerneau ",
+      "score":"4.1"
+   },
+   {
+      "city":"Viroflay ",
+      "score":"4.1"
+   },
+   {
+      "city":"La Gaude ",
+      "score":"4.1"
+   },
+   {
+      "city":"Saint-Gilles-Croix-de-Vie ",
+      "score":"4.1"
+   },
+   {
+      "city":"Saint-Leu-la-Forêt ",
+      "score":"4.1"
+   },
+   {
+      "city":"Saint-Étienne-de-Montluc ",
+      "score":"4.1"
+   },
+   {
+      "city":"Yerres ",
+      "score":"4.1"
+   },
+   {
+      "city":"La Baule-Escoublac ",
+      "score":"4.1"
+   },
+   {
+      "city":"Montrouge ",
+      "score":"4.1"
+   },
+   {
+      "city":"Culoz ",
+      "score":"4.1"
+   },
+   {
+      "city":"Rouen ",
+      "score":"3.3"
+   },
+   {
+      "city":"Bar-le-Duc ",
+      "score":"3.3"
+   },
+   {
+      "city":"Thonon-les-Bains ",
+      "score":"3.3"
+   },
+   {
+      "city":"Laval ",
+      "score":"3.3"
+   },
+   {
+      "city":"Lens ",
+      "score":"3.2"
+   },
+   {
+      "city":"Saint-Dié-des-Vosges ",
+      "score":"3.2"
+   },
+   {
+      "city":"Tarare ",
+      "score":"3.2"
+   },
+   {
+      "city":"Wattignies ",
+      "score":"3.2"
+   },
+   {
+      "city":"Obernai ",
+      "score":"3.2"
+   },
+   {
+      "city":"Roissy-en-Brie ",
+      "score":"3.2"
+   },
+   {
+      "city":"Dammartin-en-Goële ",
+      "score":"3.2"
+   },
+   {
+      "city":"Niort ",
+      "score":"3.2"
+   },
+   {
+      "city":"Nanterre ",
+      "score":"3.2"
+   },
+   {
+      "city":"Albertville ",
+      "score":"3.2"
+   },
+   {
+      "city":"Persan ",
+      "score":"3.2"
+   },
+   {
+      "city":"Bruay-la-Buissière ",
+      "score":"3.2"
+   },
+   {
+      "city":"Orléans ",
+      "score":"3.2"
+   },
+   {
+      "city":"Charleville-Mézières ",
+      "score":"3.2"
+   },
+   {
+      "city":"Le Havre ",
+      "score":"3.2"
+   },
+   {
+      "city":"Boissy-Saint-Léger ",
+      "score":"3.2"
+   },
+   {
+      "city":"Aubagne ",
+      "score":"3.2"
+   },
+   {
+      "city":"Saint-Louis ",
+      "score":"3.2"
+   },
+   {
+      "city":"Wasquehal ",
+      "score":"3.2"
+   },
+   {
+      "city":"Champs-sur-Marne ",
+      "score":"3.2"
+   },
+   {
+      "city":"Houilles ",
+      "score":"3.2"
+   },
+   {
+      "city":"Gagny ",
+      "score":"3.2"
+   },
+   {
+      "city":"Toulon ",
+      "score":"3.2"
+   },
+   {
+      "city":"Marmande ",
+      "score":"3.2"
+   },
+   {
+      "city":"Arcueil ",
+      "score":"3.2"
+   },
+   {
+      "city":"Tourcoing ",
+      "score":"3.2"
+   },
+   {
+      "city":"Arpajon ",
+      "score":"3.6"
+   },
+   {
+      "city":"Limoges ",
+      "score":"3.6"
+   },
+   {
+      "city":"Sarrebourg ",
+      "score":"3.6"
+   },
+   {
+      "city":"Quiberon ",
+      "score":"3.6"
+   },
+   {
+      "city":"Moissy-Cramayel ",
+      "score":"3.6"
+   },
+   {
+      "city":"Nangis ",
+      "score":"3.6"
+   },
+   {
+      "city":"Maisons-Laffitte ",
+      "score":"3.6"
+   },
+   {
+      "city":"Vichy ",
+      "score":"3.6"
+   },
+   {
+      "city":"Villeparisis ",
+      "score":"3.6"
+   },
+   {
+      "city":"Neuilly-Plaisance ",
+      "score":"3.6"
+   },
+   {
+      "city":"Franconville ",
+      "score":"3.6"
+   },
+   {
+      "city":"Lunel ",
+      "score":"3.6"
+   },
+   {
+      "city":"Les Sables-d'Olonne ",
+      "score":"3.6"
+   },
+   {
+      "city":"Pontault-Combault ",
+      "score":"3.6"
+   },
+   {
+      "city":"Charenton-le-Pont ",
+      "score":"3.6"
+   },
+   {
+      "city":"Châtillon ",
+      "score":"3.6"
+   },
+   {
+      "city":"Millau ",
+      "score":"3.6"
+   },
+   {
+      "city":"Saumur ",
+      "score":"3.6"
+   },
+   {
+      "city":"Concarneau ",
+      "score":"3.6"
+   },
+   {
+      "city":"Guidel ",
+      "score":"3.6"
+   },
+   {
+      "city":"Lyon ",
+      "score":"3.6"
+   },
+   {
+      "city":"Dijon ",
+      "score":"3.6"
+   },
+   {
+      "city":"Strasbourg ",
+      "score":"3.6"
+   },
+   {
+      "city":"Fougères ",
+      "score":"3.6"
+   },
+   {
+      "city":"Dinan ",
+      "score":"3.6"
+   },
+   {
+      "city":"L'Isle-sur-la-Sorgue ",
+      "score":"3.6"
+   },
+   {
+      "city":"Montauban ",
+      "score":"3.6"
+   },
+   {
+      "city":"Verneuil-sur-Seine ",
+      "score":"3.6"
+   },
+   {
+      "city":"Cherbourg-en-Cotentin ",
+      "score":"3.6"
+   },
+   {
+      "city":"Villeneuve-d'Ascq ",
+      "score":"3.6"
+   },
+   {
+      "city":"Cachan ",
+      "score":"3.5"
+   },
+   {
+      "city":"Amiens ",
+      "score":"3.5"
+   },
+   {
+      "city":"Albi ",
+      "score":"3.5"
+   },
+   {
+      "city":"Ballancourt-sur-Essonne ",
+      "score":"3.5"
+   },
+   {
+      "city":"Vernon ",
+      "score":"3.5"
+   },
+   {
+      "city":"Lille ",
+      "score":"3.5"
+   },
+   {
+      "city":"Breuillet ",
+      "score":"3.5"
+   },
+   {
+      "city":"Narbonne ",
+      "score":"3.5"
+   },
+   {
+      "city":"Cognac ",
+      "score":"3.5"
+   },
+   {
+      "city":"Créteil ",
+      "score":"3.5"
+   },
+   {
+      "city":"Rosny-sous-Bois ",
+      "score":"3.5"
+   },
+   {
+      "city":"Asnières-sur-Seine ",
+      "score":"3.5"
+   },
+   {
+      "city":"Neuilly-sur-Marne ",
+      "score":"3.5"
+   },
+   {
+      "city":"Saint-Laurent-du-Var ",
+      "score":"3.5"
+   },
+   {
+      "city":"Dax ",
+      "score":"3.5"
+   },
+   {
+      "city":"Alfortville ",
+      "score":"3.5"
+   },
+   {
+      "city":"Chartres ",
+      "score":"3.4"
+   },
+   {
+      "city":"Gujan-Mestras ",
+      "score":"3.4"
+   },
+   {
+      "city":"Évian-les-Bains ",
+      "score":"3.4"
+   },
+   {
+      "city":"Châteauroux ",
+      "score":"3.4"
+   },
+   {
+      "city":"Mont-de-Marsan ",
+      "score":"3.4"
+   },
+   {
+      "city":"Chevilly-Larue ",
+      "score":"3.4"
+   },
+   {
+      "city":"Saint-Gilles ",
+      "score":"3.4"
+   },
+   {
+      "city":"Plaisance-du-Touch ",
+      "score":"3.4"
+   },
+   {
+      "city":"Miramas ",
+      "score":"3.4"
+   },
+   {
+      "city":"Chaville ",
+      "score":"3.4"
+   },
+   {
+      "city":"Rezé ",
+      "score":"3.4"
+   },
+   {
+      "city":"Béziers ",
+      "score":"3.4"
+   },
+   {
+      "city":"Mérignac ",
+      "score":"3.4"
+   },
+   {
+      "city":"Enghien-les-Bains ",
+      "score":"3.4"
+   },
+   {
+      "city":"Sanary-sur-Mer ",
+      "score":"3.6"
+   },
+   {
+      "city":"Courbevoie ",
+      "score":"3.6"
+   },
+   {
+      "city":"Bois-d'Arcy ",
+      "score":"3.6"
+   },
+   {
+      "city":"Bordeaux ",
+      "score":"3.6"
+   },
+   {
+      "city":"Riom ",
+      "score":"3.6"
+   },
+   {
+      "city":"Guyancourt ",
+      "score":"3.6"
+   },
+   {
+      "city":"Bourg-en-Bresse ",
+      "score":"3.6"
+   },
+   {
+      "city":"Auxerre ",
+      "score":"3.6"
+   },
+   {
+      "city":"Metz ",
+      "score":"3.6"
+   },
+   {
+      "city":"Mantes-la-Jolie ",
+      "score":"3.6"
+   },
+   {
+      "city":"Chambéry ",
+      "score":"3.6"
+   },
+   {
+      "city":"La Teste-de-Buch ",
+      "score":"3.6"
+   },
+   {
+      "city":"Quimper ",
+      "score":"3.6"
+   },
+   {
+      "city":"Athis-Mons ",
+      "score":"3.6"
+   },
+   {
+      "city":"Saint-Brieuc ",
+      "score":"3.6"
+   },
+   {
+      "city":"Malakoff ",
+      "score":"3.6"
+   },
+   {
+      "city":"Hérouville-Saint-Clair ",
+      "score":"3.6"
+   },
+   {
+      "city":"Besançon ",
+      "score":"3.6"
+   },
+   {
+      "city":"Saint-Martin-de-Crau ",
+      "score":"3.6"
+   },
+   {
+      "city":"Agen ",
+      "score":"3.6"
+   },
+   {
+      "city":"Brest ",
+      "score":"3.6"
+   },
+   {
+      "city":"Saint-Jean-de-Luz ",
+      "score":"3.5"
+   },
+   {
+      "city":"Oullins ",
+      "score":"3.5"
+   },
+   {
+      "city":"Hazebrouck ",
+      "score":"3.5"
+   },
+   {
+      "city":"Issy-les-Moulineaux ",
+      "score":"3.5"
+   },
+   {
+      "city":"Bayonne ",
+      "score":"3.5"
+   },
+   {
+      "city":"Bourg-la-Reine ",
+      "score":"3.5"
+   },
+   {
+      "city":"Martigues ",
+      "score":"3.5"
+   },
+   {
+      "city":"Cestas ",
+      "score":"3.5"
+   },
+   {
+      "city":"La Rochelle ",
+      "score":"3.5"
+   },
+   {
+      "city":"Maurepas ",
+      "score":"3.5"
+   },
+   {
+      "city":"Ajaccio ",
+      "score":"3.5"
+   },
+   {
+      "city":"Gravelines ",
+      "score":"3.5"
+   },
+   {
+      "city":"Talence ",
+      "score":"3.5"
+   },
+   {
+      "city":"Osny ",
+      "score":"3.5"
+   },
+   {
+      "city":"Poitiers ",
+      "score":"3.5"
+   },
+   {
+      "city":"Royan ",
+      "score":"3.5"
+   },
+   {
+      "city":"Sarreguemines ",
+      "score":"3.5"
+   },
+   {
+      "city":"Biarritz ",
+      "score":"3.5"
+   },
+   {
+      "city":"Montgeron ",
+      "score":"3.5"
+   },
+   {
+      "city":"Nérac ",
+      "score":"3.5"
+   },
+   {
+      "city":"Les Pavillons-sous-Bois ",
+      "score":"3.5"
+   },
+   {
+      "city":"Montigny-le-Bretonneux ",
+      "score":"3.5"
+   },
+   {
+      "city":"Plaisir ",
+      "score":"3.5"
+   },
+   {
+      "city":"Fontenay-sous-Bois ",
+      "score":"3.5"
+   },
+   {
+      "city":"Muret ",
+      "score":"3.5"
+   },
+   {
+      "city":"Gap ",
+      "score":"3.5"
+   },
+   {
+      "city":"Serris ",
+      "score":"3.5"
+   },
+   {
+      "city":"Vauréal ",
+      "score":"3.5"
+   },
+   {
+      "city":"Castres ",
+      "score":"3.5"
+   },
+   {
+      "city":"Colmar ",
+      "score":"3.5"
+   },
+   {
+      "city":"Saint-Omer ",
+      "score":"3.5"
+   },
+   {
+      "city":"Carvin ",
+      "score":"3.5"
+   },
+   {
+      "city":"Saint-Brevin-les-Pins ",
+      "score":"3.5"
+   },
+   {
+      "city":"Villemomble ",
+      "score":"3.5"
+   },
+   {
+      "city":"Guingamp ",
+      "score":"3.5"
+   },
+   {
+      "city":"Deauville ",
+      "score":"3.5"
+   },
+   {
+      "city":"Saint-Paul-lès-Dax ",
+      "score":"3.5"
+   },
+   {
+      "city":"Avrillé ",
+      "score":"3.5"
+   },
+   {
+      "city":"La Ciotat ",
+      "score":"3.5"
+   },
+   {
+      "city":"Massy ",
+      "score":"3.3"
+   },
+   {
+      "city":"Mons-en-Baroeul ",
+      "score":"3.3"
+   },
+   {
+      "city":"Tremblay-en-France ",
+      "score":"3.3"
+   },
+   {
+      "city":"Le Mans ",
+      "score":"3.3"
+   },
+   {
+      "city":"Mantes-la-Ville ",
+      "score":"3.3"
+   },
+   {
+      "city":"Le Pré-Saint-Gervais ",
+      "score":"3.3"
+   },
+   {
+      "city":"Sedan ",
+      "score":"3.3"
+   },
+   {
+      "city":"Bernay ",
+      "score":"3.3"
+   },
+   {
+      "city":"Six-Fours-les-Plages ",
+      "score":"3.3"
+   },
+   {
+      "city":"Sète ",
+      "score":"3.3"
+   },
+   {
+      "city":"Douai ",
+      "score":"3.3"
+   },
+   {
+      "city":"Saint-Nazaire ",
+      "score":"3.3"
+   },
+   {
+      "city":"Wattrelos ",
+      "score":"3.3"
+   },
+   {
+      "city":"Saint-Michel-sur-Orge ",
+      "score":"3.3"
+   },
+   {
+      "city":"Istres ",
+      "score":"3.3"
+   },
+   {
+      "city":"Bourgoin-Jallieu ",
+      "score":"3.3"
+   },
+   {
+      "city":"Fécamp ",
+      "score":"3.3"
+   },
+   {
+      "city":"Thionville ",
+      "score":"3.3"
+   },
+   {
+      "city":"Biscarrosse ",
+      "score":"3.3"
+   },
+   {
+      "city":"L'Isle-d'Abeau ",
+      "score":"3.3"
+   },
+   {
+      "city":"Aurillac ",
+      "score":"3.3"
+   },
+   {
+      "city":"Sallanches ",
+      "score":"3.3"
+   },
+   {
+      "city":"Villeurbanne ",
+      "score":"3.3"
+   },
+   {
+      "city":"Vendôme ",
+      "score":"3.3"
+   },
+   {
+      "city":"Bully-les-Mines ",
+      "score":"3.3"
+   },
+   {
+      "city":"Groslay ",
+      "score":"3.3"
+   },
+   {
+      "city":"Orange ",
+      "score":"3.3"
+   },
+   {
+      "city":"Montélimar ",
+      "score":"3.3"
+   },
+   {
+      "city":"Étampes ",
+      "score":"3.3"
+   },
+   {
+      "city":"Brétigny-sur-Orge ",
+      "score":"3.3"
+   },
+   {
+      "city":"Chilly-Mazarin ",
+      "score":"3.4"
+   },
+   {
+      "city":"Nancy ",
+      "score":"3.4"
+   },
+   {
+      "city":"Viry-Châtillon ",
+      "score":"3.4"
+   },
+   {
+      "city":"Marignane ",
+      "score":"3.4"
+   },
+   {
+      "city":"Montpellier ",
+      "score":"3.4"
+   },
+   {
+      "city":"Ormesson-sur-Marne ",
+      "score":"3.4"
+   },
+   {
+      "city":"Limay ",
+      "score":"3.4"
+   },
+   {
+      "city":"Périgueux ",
+      "score":"3.4"
+   },
+   {
+      "city":"Canet-en-Roussillon ",
+      "score":"3.4"
+   },
+   {
+      "city":"Rumilly ",
+      "score":"3.4"
+   },
+   {
+      "city":"Bagnères-de-Bigorre ",
+      "score":"3.4"
+   },
+   {
+      "city":"Verdun ",
+      "score":"3.4"
+   },
+   {
+      "city":"Mèze ",
+      "score":"3.4"
+   },
+   {
+      "city":"Belfort ",
+      "score":"3.4"
+   },
+   {
+      "city":"Nice ",
+      "score":"3.4"
+   },
+   {
+      "city":"Morsang-sur-Orge ",
+      "score":"3.4"
+   },
+   {
+      "city":"Hyères ",
+      "score":"3.4"
+   },
+   {
+      "city":"Roanne ",
+      "score":"3.4"
+   },
+   {
+      "city":"Pantin ",
+      "score":"3.4"
+   },
+   {
+      "city":"Épinal ",
+      "score":"3.4"
+   },
+   {
+      "city":"Vigneux-sur-Seine ",
+      "score":"3.4"
+   },
+   {
+      "city":"Montfermeil ",
+      "score":"3.4"
+   },
+   {
+      "city":"Carpentras ",
+      "score":"3.4"
+   },
+   {
+      "city":"Lorient ",
+      "score":"3.4"
+   },
+   {
+      "city":"Reims ",
+      "score":"3.4"
+   },
+   {
+      "city":"Soissons ",
+      "score":"3.4"
+   },
+   {
+      "city":"Larmor-Plage ",
+      "score":"3.4"
+   },
+   {
+      "city":"Saint-Ouen-l'Aumône ",
+      "score":"3.4"
+   },
+   {
+      "city":"Saint-Chamond ",
+      "score":"3.4"
+   },
+   {
+      "city":"Les Lilas ",
+      "score":"3.4"
+   },
+   {
+      "city":"Rochefort ",
+      "score":"3.4"
+   },
+   {
+      "city":"Les Lilas ",
+      "score":"3.4"
+   },
+   {
+      "city":"Hennebont ",
+      "score":"3.4"
+   },
+   {
+      "city":"Maringues ",
+      "score":"3.4"
+   },
+   {
+      "city":"Moulins ",
+      "score":"3.4"
+   },
+   {
+      "city":"Montigny-lès-Metz ",
+      "score":"3.4"
+   },
+   {
+      "city":"Bonneville ",
+      "score":"3.4"
+   },
+   {
+      "city":"Montbéliard ",
+      "score":"3.4"
+   },
+   {
+      "city":"Lons-le-Saunier ",
+      "score":"3.4"
+   },
+   {
+      "city":"Blois ",
+      "score":"3.4"
+   },
+   {
+      "city":"Sannois ",
+      "score":"3.4"
+   },
+   {
+      "city":"Lunéville ",
+      "score":"3.4"
+   },
+   {
+      "city":"Brive-la-Gaillarde ",
+      "score":"3.4"
+   },
+   {
+      "city":"Nantes ",
+      "score":"3.4"
+   },
+   {
+      "city":"Dunkerque ",
+      "score":"3.4"
+   },
+   {
+      "city":"Bastia ",
+      "score":"3.4"
+   },
+   {
+      "city":"Paris ",
+      "score":"3.4"
+   },
+   {
+      "city":"Troyes ",
+      "score":"3.4"
+   },
+   {
+      "city":"Bois-Colombes ",
+      "score":"3.4"
+   },
+   {
+      "city":"Rethel ",
+      "score":"3.4"
+   },
+   {
+      "city":"Cagnes-sur-Mer ",
+      "score":"3.4"
+   },
+   {
+      "city":"Haubourdin ",
+      "score":"3.4"
+   },
+   {
+      "city":"Clermont-Ferrand ",
+      "score":"3.4"
+   },
+   {
+      "city":"Valence ",
+      "score":"3.4"
+   },
+   {
+      "city":"Nevers ",
+      "score":"3.4"
+   },
+   {
+      "city":"Alès ",
+      "score":"3.3"
+   },
+   {
+      "city":"Évreux ",
+      "score":"3.3"
+   },
+   {
+      "city":"Mulhouse ",
+      "score":"3.3"
+   },
+   {
+      "city":"Villiers-sur-Marne ",
+      "score":"3.3"
+   },
+   {
+      "city":"Menton ",
+      "score":"3.3"
+   },
+   {
+      "city":"Écouen ",
+      "score":"3.1"
+   },
+   {
+      "city":"Perpignan ",
+      "score":"3.1"
+   },
+   {
+      "city":"Abbeville ",
+      "score":"3.1"
+   },
+   {
+      "city":"Vallauris ",
+      "score":"3.1"
+   },
+   {
+      "city":"Boussy-Saint-Antoine ",
+      "score":"3.1"
+   },
+   {
+      "city":"Villeneuve-le-Roi ",
+      "score":"3.1"
+   },
+   {
+      "city":"Rodez ",
+      "score":"3.1"
+   },
+   {
+      "city":"Libourne ",
+      "score":"3.1"
+   },
+   {
+      "city":"Romainville ",
+      "score":"3.1"
+   },
+   {
+      "city":"Saint-Martin-d'Hères ",
+      "score":"3.1"
+   },
+   {
+      "city":"Agde ",
+      "score":"3"
+   },
+   {
+      "city":"Soisy-sur-Seine ",
+      "score":"3"
+   },
+   {
+      "city":"Montreuil ",
+      "score":"3"
+   },
+   {
+      "city":"Sens ",
+      "score":"3"
+   },
+   {
+      "city":"L'Haÿ-les-Roses ",
+      "score":"3"
+   },
+   {
+      "city":"Châtellerault ",
+      "score":"3"
+   },
+   {
+      "city":"Sartrouville ",
+      "score":"3"
+   },
+   {
+      "city":"Arles ",
+      "score":"3"
+   },
+   {
+      "city":"Orly ",
+      "score":"3"
+   },
+   {
+      "city":"Thiers ",
+      "score":"3"
+   },
+   {
+      "city":"Savigny-le-Temple ",
+      "score":"3"
+   },
+   {
+      "city":"Courcelles-lès-Lens ",
+      "score":"3"
+   },
+   {
+      "city":"Achères ",
+      "score":"3"
+   },
+   {
+      "city":"Villeneuve-sur-Lot ",
+      "score":"3"
+   },
+   {
+      "city":"Épinay-sur-Seine ",
+      "score":"3"
+   },
+   {
+      "city":"La Seyne-sur-Mer ",
+      "score":"3"
+   },
+   {
+      "city":"Blain ",
+      "score":"3"
+   },
+   {
+      "city":"Boulogne-sur-Mer ",
+      "score":"3"
+   },
+   {
+      "city":"Tarbes ",
+      "score":"3"
+   },
+   {
+      "city":"Gennevilliers ",
+      "score":"3"
+   },
+   {
+      "city":"Châlons-en-Champagne ",
+      "score":"3.2"
+   },
+   {
+      "city":"Saint-Quentin ",
+      "score":"3.2"
+   },
+   {
+      "city":"Cahors ",
+      "score":"3.2"
+   },
+   {
+      "city":"Clichy ",
+      "score":"3.2"
+   },
+   {
+      "city":"Haguenau ",
+      "score":"3.2"
+   },
+   {
+      "city":"Saint-Jean-de-la-Ruelle ",
+      "score":"3.2"
+   },
+   {
+      "city":"Beauvais ",
+      "score":"3.2"
+   },
+   {
+      "city":"Toulouse ",
+      "score":"3.2"
+   },
+   {
+      "city":"Montargis ",
+      "score":"3.2"
+   },
+   {
+      "city":"Saint-Genis-Pouilly ",
+      "score":"3.2"
+   },
+   {
+      "city":"Sin-le-Noble ",
+      "score":"3.2"
+   },
+   {
+      "city":"Colombes ",
+      "score":"3.2"
+   },
+   {
+      "city":"Montluçon ",
+      "score":"3.2"
+   },
+   {
+      "city":"Évry-Courcouronnes ",
+      "score":"3.2"
+   },
+   {
+      "city":"Saint-Étienne ",
+      "score":"3.1"
+   },
+   {
+      "city":"Pertuis ",
+      "score":"3.1"
+   },
+   {
+      "city":"Calais ",
+      "score":"3.1"
+   },
+   {
+      "city":"Champigny-sur-Marne ",
+      "score":"3.1"
+   },
+   {
+      "city":"Juvignac ",
+      "score":"3.1"
+   },
+   {
+      "city":"Saint-Herblain ",
+      "score":"3.1"
+   },
+   {
+      "city":"Cergy ",
+      "score":"3.1"
+   },
+   {
+      "city":"Juvisy-sur-Orge ",
+      "score":"3.1"
+   },
+   {
+      "city":"Leforest ",
+      "score":"3.1"
+   },
+   {
+      "city":"Trappes ",
+      "score":"3.1"
+   },
+   {
+      "city":"Grasse ",
+      "score":"3.1"
+   },
+   {
+      "city":"Échirolles ",
+      "score":"3.1"
+   },
+   {
+      "city":"Morlaix ",
+      "score":"3.1"
+   },
+   {
+      "city":"Villeneuve-la-Garenne ",
+      "score":"3.1"
+   },
+   {
+      "city":"Villejuif ",
+      "score":"3.1"
+   },
+   {
+      "city":"Angoulême ",
+      "score":"3.1"
+   },
+   {
+      "city":"Stains ",
+      "score":"3"
+   },
+   {
+      "city":"Denain ",
+      "score":"3"
+   },
+   {
+      "city":"Sisteron ",
+      "score":"3"
+   },
+   {
+      "city":"Maubeuge ",
+      "score":"3"
+   },
+   {
+      "city":"Sains-en-Gohelle ",
+      "score":"3"
+   },
+   {
+      "city":"Le Kremlin-Bicêtre ",
+      "score":"3"
+   },
+   {
+      "city":"Colomiers ",
+      "score":"3"
+   },
+   {
+      "city":"Laon ",
+      "score":"3"
+   },
+   {
+      "city":"Nîmes ",
+      "score":"3"
+   },
+   {
+      "city":"Digne-les-Bains ",
+      "score":"2.9"
+   },
+   {
+      "city":"Chinon ",
+      "score":"2.9"
+   },
+   {
+      "city":"La Queue-en-Brie ",
+      "score":"2.9"
+   },
+   {
+      "city":"Carcassonne ",
+      "score":"2.9"
+   },
+   {
+      "city":"Villepinte ",
+      "score":"2.9"
+   },
+   {
+      "city":"Combs-la-Ville ",
+      "score":"2.9"
+   },
+   {
+      "city":"Choisy-le-Roi ",
+      "score":"2.9"
+   },
+   {
+      "city":"Les Ulis ",
+      "score":"2.9"
+   },
+   {
+      "city":"Cugnaux ",
+      "score":"2.9"
+   },
+   {
+      "city":"Fresnes ",
+      "score":"2.9"
+   },
+   {
+      "city":"Manosque ",
+      "score":"2.9"
+   },
+   {
+      "city":"Revel ",
+      "score":"2.9"
+   },
+   {
+      "city":"Romans-sur-Isère ",
+      "score":"2.9"
+   },
+   {
+      "city":"Longjumeau ",
+      "score":"2.9"
+   },
+   {
+      "city":"Héricourt ",
+      "score":"2.9"
+   },
+   {
+      "city":"Melun ",
+      "score":"2.9"
+   },
+   {
+      "city":"Grenoble ",
+      "score":"2.9"
+   },
+   {
+      "city":"Montereau-Fault-Yonne ",
+      "score":"2.8"
+   },
+   {
+      "city":"Le Boulou ",
+      "score":"2.8"
+   },
+   {
+      "city":"Oyonnax ",
+      "score":"2.8"
+   },
+   {
+      "city":"Saint-Dizier ",
+      "score":"2.8"
+   },
+   {
+      "city":"Anzin ",
+      "score":"2.7"
+   },
+   {
+      "city":"Villiers-le-Bel ",
+      "score":"2.6"
+   },
+   {
+      "city":"Thorigny-sur-Marne ",
+      "score":"2.6"
+   },
+   {
+      "city":"Vierzon ",
+      "score":"2.6"
+   },
+   {
+      "city":"Auchel ",
+      "score":"2.6"
+   },
+   {
+      "city":"Hayange ",
+      "score":"2.6"
+   },
+   {
+      "city":"Vanves ",
+      "score":"2.6"
+   },
+   {
+      "city":"Vénissieux ",
+      "score":"2.6"
+   },
+   {
+      "city":"Lisieux ",
+      "score":"2.6"
+   },
+   {
+      "city":"Livry-Gargan ",
+      "score":"2.6"
+   },
+   {
+      "city":"Goussainville ",
+      "score":"2.5"
+   },
+   {
+      "city":"Noisy-le-Sec ",
+      "score":"2.5"
+   },
+   {
+      "city":"Saint-Cyr-l'École ",
+      "score":"2.5"
+   },
+   {
+      "city":"Drancy ",
+      "score":"2.5"
+   },
+   {
+      "city":"Isbergues ",
+      "score":"2.5"
+   },
+   {
+      "city":"Annemasse ",
+      "score":"2.5"
+   },
+   {
+      "city":"Aulnay-sous-Bois ",
+      "score":"2.5"
+   },
+   {
+      "city":"Beaumont-sur-Oise ",
+      "score":"2.4"
+   },
+   {
+      "city":"Châtenay-Malabry ",
+      "score":"2.4"
+   },
+   {
+      "city":"Argenteuil ",
+      "score":"2.4"
+   },
+   {
+      "city":"Saint-Denis ",
+      "score":"2.4"
+   },
+   {
+      "city":"Bagneux ",
+      "score":"2.4"
+   },
+   {
+      "city":"Bagnols-sur-Cèze ",
+      "score":"2.4"
+   },
+   {
+      "city":"La Celle-Saint-Cloud ",
+      "score":"2.4"
+   },
+   {
+      "city":"Vitry-sur-Seine ",
+      "score":"2.3"
+   },
+   {
+      "city":"Aubervilliers ",
+      "score":"2.3"
+   },
+   {
+      "city":"Ivry-sur-Seine ",
+      "score":"2.3"
+   },
+   {
+      "city":"Woippy ",
+      "score":"2.1"
+   },
+   {
+      "city":"Bezons ",
+      "score":"2.1"
+   },
+   {
+      "city":"Sarcelles ",
+      "score":"2.1"
+   },
+   {
+      "city":"Corbeil-Essonnes ",
+      "score":"2"
+   },
+   {
+      "city":"Tarascon ",
+      "score":"1.9"
+   },
+   {
+      "city":"Vaujours ",
+      "score":"1.9"
+   },
+   {
+      "city":"Bondy ",
+      "score":"1.8"
+   },
+   {
+      "city":"Carmaux ",
+      "score":"1.8"
+   },
+   {
+      "city":"Coursan ",
+      "score":"1.8"
+   },
+   {
+      "city":"Villeneuve-Saint-Georges ",
+      "score":"1.7"
+   },
+   {
+      "city":"Garges-lès-Gonesse ",
+      "score":"1.6"
+   },
+   {
+      "city":"Loos ",
+      "score":"2.8"
+   },
+   {
+      "city":"Ézanville ",
+      "score":"2.8"
+   },
+   {
+      "city":"Valenciennes ",
+      "score":"2.8"
+   },
+   {
+      "city":"Mâcon ",
+      "score":"2.8"
+   },
+   {
+      "city":"Ris-Orangis ",
+      "score":"2.8"
+   },
+   {
+      "city":"Vitrolles ",
+      "score":"2.8"
+   },
+   {
+      "city":"Auch ",
+      "score":"2.8"
+   },
+   {
+      "city":"Montmagny ",
+      "score":"2.8"
+   },
+   {
+      "city":"Roubaix ",
+      "score":"2.8"
+   },
+   {
+      "city":"Savigny-sur-Orge ",
+      "score":"2.8"
+   },
+   {
+      "city":"Magny-en-Vexin ",
+      "score":"2.8"
+   },
+   {
+      "city":"Pamiers ",
+      "score":"2.8"
+   },
+   {
+      "city":"Avignon ",
+      "score":"2.8"
+   },
+   {
+      "city":"Saint-Ouen-sur-Seine ",
+      "score":"2.8"
+   },
+   {
+      "city":"Croix ",
+      "score":"2.8"
+   },
+   {
+      "city":"Limeil-Brévannes ",
+      "score":"2.8"
+   },
+   {
+      "city":"Lourdes ",
+      "score":"2.8"
+   },
+   {
+      "city":"Gardanne ",
+      "score":"2.7"
+   },
+   {
+      "city":"Darnétal ",
+      "score":"2.7"
+   },
+   {
+      "city":"Saint-Priest ",
+      "score":"2.7"
+   },
+   {
+      "city":"Sevran ",
+      "score":"2.7"
+   },
+   {
+      "city":"Argelès-sur-Mer ",
+      "score":"2.7"
+   },
+   {
+      "city":"Marseille ",
+      "score":"2.7"
+   },
+   {
+      "city":"La Valette-du-Var ",
+      "score":"2.7"
+   },
+   {
+      "city":"Villefranche-sur-Saône ",
+      "score":"2.7"
+   },
+   {
+      "city":"Vienne ",
+      "score":"2.7"
+   },
+   {
+      "city":"Bobigny ",
+      "score":"2.7"
+   },
+   {
+      "city":"Bergerac ",
+      "score":"2.7"
+   },
+   {
+      "city":"Elbeuf ",
+      "score":"2.7"
+   },
+   {
+      "city":"Le Petit-Quevilly ",
+      "score":"2.7"
+   }
+]

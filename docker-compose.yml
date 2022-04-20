@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  axione_api:
+    container_name: axione_api_container
+    image: axione_api
+    build: ./app
+    ports:
+      - "80:8000"
+    env_file:
+      - ${ENV}.env
+    entrypoint: ./startup.sh
