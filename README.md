@@ -29,10 +29,19 @@
   
 - Openapi:
   ```sh
-    http://localhost/docs
+  http://localhost/docs
   ```
   
 - Run unittest in app folder:
   ```sh
-    ./run_tests.sh
+  ./run_tests.sh
+  ```
+
+- An example of request body for POST /search:
+  ```sh
+  {
+    "department": "95",
+    "surface": 70,
+    "max_rent": 900
+  }
   ```
